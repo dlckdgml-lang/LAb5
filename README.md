@@ -3,7 +3,7 @@
 
 ### I/O Redirection: Standard Output
 - > : to Redirects the standard output of a command to a file.
--cat : displays the content of a text file
+- cat : displays the content of a text file
 - >> : Appends the output to an existing file or creates a new one if it doesn't exist.
 - < : is to Redirects input from a file rather than the keyboard.
 
@@ -59,9 +59,7 @@
 - fetching, uploading, and managing data over the Internet
 
 ---
-
-### grep
-- grep : Searches for specific text patterns within files.
+  - grep : Searches for specific text patterns within files.
   - -i : Case-insensitive search.
   - -v : Inverts the match.
   - -n : Displays line numbers.
